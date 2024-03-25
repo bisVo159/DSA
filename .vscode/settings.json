@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "PATTERN.C": "cpp",
+        "ASSIGNMENT_5.C": "cpp",
+        "ASSIGNMENT_6_II.C": "cpp",
+        "ASSIGNMENT_7.C": "cpp",
+        "ASSIGNMENT_8.C": "cpp",
+        "ASSIGNMENT_9.C": "cpp",
+        "ostream": "cpp"
+    }
+}
